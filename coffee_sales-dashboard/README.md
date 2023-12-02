@@ -25,3 +25,6 @@ Dataset variables include:
 The Dashboard aims to visualize daily trends and sales by month,location and product category.<br>
 All 3 graphs are to be interactive with filters.<br>
 It is meant to be looked at from separate window: http://127.0.0.1:8050/
+
+Result:
+![coffee_dashboard](https://github.com/szilvasipeter2000/Data_Visualization/assets/144559314/012946c4-fba9-4985-a4e2-cd2ab79a6d70)

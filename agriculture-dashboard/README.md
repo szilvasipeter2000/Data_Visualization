@@ -52,3 +52,9 @@ Three slicers enable user interaction:
 The Total Production and Total Harvested Area charts feature a Top N filtering for the top 5 countries by the sum of Production and Harvested Area, respectively.
 
 For detailed usage instructions and additional insights, refer to the [detailed documentation](link-to-detailed-documentation.md) provided.
+
+
+### Result
+
+![image](https://github.com/szilvasipeter2000/Data_Visualization/assets/144559314/5cbd8b7e-6525-4b02-b645-257fc6dc38dc)
+

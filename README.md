@@ -6,3 +6,4 @@ Navigate into individual project folders for detailed READMEs and project-specif
 
 - agriculture-dashboard: dashboard in PowerBI
 - coffee_sales-dashboard: dashboard in Python using dash and plotlyexpress
+- R based Data Visualization about migration patterns on [Rpubs](https://rpubs.com/szilvasipeter/refugees).
